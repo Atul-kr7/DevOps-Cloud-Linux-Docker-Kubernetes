@@ -1,1 +1,7 @@
+How to install jenkins in mac?
 
+Step 1: Install java jdk 11 in your system (https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+Step 2: If you dont have an oracle account then you have to create first then download.
+
+Step 3: https://www.jenkins.io/download/lts/macos/
+Step 4: 
