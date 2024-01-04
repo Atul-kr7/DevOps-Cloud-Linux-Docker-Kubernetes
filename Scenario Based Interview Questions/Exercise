@@ -10,8 +10,6 @@ step 2: create a local repo key on the jFrog server from firefox with the folder
 
 
 
-
-
 ------>>>>>
 1. Perform basic git operations using eclipse 
 
@@ -24,7 +22,9 @@ the chage has now been committed
 -->>>>>>
 2.Perform static analysis using sonarQube
 
+Create a quality for SonarQube with a custom set of rules as shown:
 
+go to localhost:9000 (web interface of sponarQube)
 ---->>>
 3.Perform Build automation for java web app using maven
 4.implement binary versioning using artifactory
