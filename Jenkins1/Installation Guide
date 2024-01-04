@@ -3,5 +3,24 @@ How to install jenkins in mac?
 Step 1: Install java jdk 11 in your system (https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 Step 2: If you dont have an oracle account then you have to create first then download.
 
-Step 3: https://www.jenkins.io/download/lts/macos/
-Step 4: 
+Step 3: Open this link in your browser ->  https://www.jenkins.io/download/lts/macos/
+Step 4: Open this link in your browser ->  https://brew.sh/
+step 5: search in https://brew.sh/ -> jenkins-lts 
+step 6: scroll down to see the formula code and click on that github link 
+step 7: scroll down see in line number 17->  depends_on "openjdk" to check which version is required to run the jenkins in your system 
+step 8: install homebrew -> open terminal and run this command -> brew install jenkins-lts
+step 9: if you are facing to install brew and you get this error-> zsh: command not found: brew
+step 10: then run this command in your terminal ->  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+step 11: Wait for installation
+step 12: run this command in terminal -> cd /opt/homebrew/bin
+step 13: ls -> showing brew
+step 14: PATH=$Path:/opt/homebrew/bin
+step 15: cd
+step 16: touch .zshrc
+step 17: echo export PATH=$PATH:/opt/homebrew/bin
+step 18: brew doctor
+step 19: brew -version
+step 20: brew install audacity  ->  audacity was successfully installed!
+
+
+Successfully install 
