@@ -1,1 +1,8 @@
+1. Perform basic git operations using eclipse 
 
+2.Perform static analysis using sonarQube
+3.Perform Build automation for java web app using maven
+4.implement binary versioning using artifactory
+5.implement CI using jenkins
+
+6.control quality of CI buils using qulaity goals
