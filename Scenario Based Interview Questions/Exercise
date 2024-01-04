@@ -1,13 +1,34 @@
+-->>>Jenkins and Artifactory tool configurations:
+
+config 1: setting up artifactory folder
+step 1: https://jfrog.com/start-free/?code=cda903faa5930fe3e32f&state=ent#ptPd
+step 2: create a local repo key on the jFrog server from firefox with the folder name as mentioned in the pom.xml of the project in
+        eclipse, within thw repo tag
+
+
+----->>>> Setting up jenkins
+
+
+
+
+
+------>>>>>
 1. Perform basic git operations using eclipse 
 
+use the project as a local git repo and commit change on the local branch :
+
+Open Eclipse -> project explorer and open index.jsp file inside src/main/webapp
+change the background color to purple and save the file
+right click on project exploer -> team -> commit -> enter appropriate comments for the commit and click on the commit button
+the chage has now been committed
+-->>>>>>
 2.Perform static analysis using sonarQube
+
+
+---->>>
 3.Perform Build automation for java web app using maven
 4.implement binary versioning using artifactory
 5.implement CI using jenkins
 
 6.control quality of CI buils using qulaity goals
 
-
-Jenkins and Artifactory tool configurations:
-
-config 1: setting up artifactory folder
