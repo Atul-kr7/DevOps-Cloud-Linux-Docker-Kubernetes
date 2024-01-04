@@ -6,3 +6,8 @@
 5.implement CI using jenkins
 
 6.control quality of CI buils using qulaity goals
+
+
+Jenkins and Artifactory tool configurations:
+
+config 1: setting up artifactory folder
