@@ -1,0 +1,5 @@
+Why is Terraform used for DevOps?
+
+Terraform uses a JSON-like configuration language called the HashiCorp Configuration Language (HCL). 
+HCL has a very simple syntax that makes it easy for DevOps teams to define and enforce infrastructure configurations across multiple clouds and on-premises data centers.
+
