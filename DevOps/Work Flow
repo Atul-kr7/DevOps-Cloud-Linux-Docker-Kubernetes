@@ -1,0 +1,27 @@
+# Work Flow of DevOps
+
+                         Code Commit 
+                          (Github)
+                              |
+                        Jenkins Build
+              (Triggered the code using Maven ) -> Run Unit Tests
+                              |
+                        Code Analysis 
+            (SonarQube for Code quality ,security, bugs)
+                              |
+                        Security Scan 
+              (AppScan for Security Vulnerabilites)
+                              |
+                    Deploy to Dev environmnet
+            (If the build and scan pass Jenkins deploys the code 
+              to developement environment manged by kubernetes)
+                              |
+                    Continous Deployment 
+          (ArgoCD -> watch git Repo and automatically deploys 
+    new changes to the developemnt environment as soon as they are commited)
+                              |
+        Promote to Prod(It is manually promoted using argoCD to prod env)
+                              |
+                Monitoring(Performance and availability 
+            using kubernetes tools and Other monitoring tools)
+                  
