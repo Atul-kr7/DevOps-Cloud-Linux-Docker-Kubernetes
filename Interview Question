@@ -19,4 +19,5 @@ Questions
 15. IAM & Root
 16. Docker- what is Docker and what is component in Docker
 17. How to integrate GIthub to SonarQube?
-18. Cloud architecture ? 1 , 2 , 3  tier 
+18. Cloud 1 , 2 , 3  tier architecture ? 
+19. Explain 0.0.0.0/ 8080 inbound and outbound rules
