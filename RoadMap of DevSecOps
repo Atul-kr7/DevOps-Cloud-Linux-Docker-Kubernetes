@@ -7,8 +7,28 @@
                                                 |
                                             BackEnd
                                                 |
+                                               API
+                                                |
                                             FrontEnd
                                                 |
                                         DevOps or DevSecOps
                                                 |
+                                        GitHub(code commit)
+                                                |
+                    Jenkins Build(trigger the code using Maven run the unit test)
+                                                |
+                          Code Analysis(Sonar for code quality, security ,bugs)
+                                                |
+                           Security  Scan(AppScan for Security Vulnerabilities)
+                                                |
+                                    Deploy to Dev Enverionment
+                                  (If the build and scans Pass 
+                      jenkins deploys the code to development maanged by kubernetes)
+                                                |
+                              CD(ArgoCD -> watch git Repo and automatically deploys 
+                              new changes to the development enviroment manged by kubenetes)
+                                                |
+                     Promote the Prod (it is manually promoted using argoCD to the prod env.)
+                                                |
+          Monitoring (Performance and avialability using kubernetes tools and other monitoring tools)
                                                 
