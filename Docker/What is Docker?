@@ -4,6 +4,6 @@
 
 Docker Solution :
 
-    A docker conatiners has everything about a project like code, runtime, system tools, system libraries and settings with specific version.
+    A docker container has everything about a project like code, runtime, system tools, system libraries and settings with specific version.
 
     we use the container to build, run and share code or project.
