@@ -1,1 +1,11 @@
-
+1. Deploy 50 VMs on Public Cloud
+2. Deploy 50 VMs on Private Cloud
+3. Provision Storage on all VMs
+4. Setup Network Configuration on Private VMs
+5. Setup Cluster Configuration
+6. Configure Web Server on 20 Public VMs
+7. Configure DB Server on 20 Private VMs
+8. Setup Loadbalancing between web server VMs
+9. Setup Monitoring components
+10. Install and Configure backup clients on VMs
+11. Update CMDB database with new VM Information
