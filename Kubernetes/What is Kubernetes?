@@ -1,1 +1,52 @@
 
+Kubernetes Stack in Production:
+
+1.  Infrastructure:
+
+      a.Container Registry
+      b.DNS
+      c.Load Balancing
+      d.IP Address
+      e.IaC Setup
+
+2.  Security:
+
+      a.Secrect Mangement
+          i.Vault
+          ii.External Secret Synchronization
+      b.Kubernetes RBAC
+
+3.  AUTO:
+
+    a. QAUTO/OIDC
+    b. IAM
+    c. Single SignOn
+
+4.  Observability:
+
+    a.Monitoring:
+      i.Dashboards
+      ii. Notifications.
+
+    b.Logging
+      i. Collections.
+      ii. Indexes.
+      iii. Tracing.
+
+
+5.  Releases & Deployments:
+
+    a. GitOps Platform.
+    b. CI/CD.
+    c. Rolling Deployments.
+    d. Autotesting.
+
+6.  Development:
+
+    a. Deployment.
+    b. Service.
+    c. Ingress.
+    d. Configuration.
+      i. Configmaps.
+      ii. Secretes
+      iii. Liveness & Readiness probes.
