@@ -1,0 +1,16 @@
+Reverse Proxy vs. API Gateway vs. Load Balancer 
+ 
+Modern websites and applications have complex architecture needs. Here we'll explore three key components: 
+ 
+🔹Reverse Proxy: Acts as an intermediary between clients and backend servers. Key features include: 
+- Returning data requests on behalf of backend servers 
+- Shielding sensitive infrastructure from external probing 
+ 
+🔹API Gateway: Sits between clients and backend services, acting as a single entry point. It routes requests to the appropriate services. Useful for: 
+- Organizing communication between frontends and intricate backends 
+- Avoiding exposing all services publicly 
+ 
+ 🔹Load Balancer: Distributes network traffic across multiple servers, preventing overload on any single resource. Crucial for: 
+- Managing high traffic loads without downtime 
+ 
+These represent powerful tools for building robust, secure, and scalable modern web stacks. They each serve distinct purposes, but frequently work together seamlessly. 
