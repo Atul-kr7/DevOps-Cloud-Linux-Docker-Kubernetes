@@ -1,0 +1,62 @@
+1. Kubiya:
+- AI virtual DevOps assistant.
+- Uses Large Language Models for automation.
+- Integrates with existing DevOps tools.
+- Automates tasks like code deployment, testing, and incident management.
+- Enhances efficiency, agility, and innovation without adding more team members.
+
+2. Amazon CodeGuru:
+- AI-powered development tool.
+- Analyzes code for performance optimization.
+- Identifies bugs and improves code quality.
+- Integrates seamlessly into DevOps workflows.
+- Reduces debugging time and enhances application performance.
+
+3. Sysdig:
+- AI platform for containerized environments.
+- Provides visibility and monitoring using machine learning.
+- Automatically detects patterns, anomalies, and security threats.
+- Optimizes performance and resource allocation.
+- Streamlines incident response and troubleshooting.
+
+4. PagerDuty:
+- Incident management leader with AIOps solution.
+- Notifies teams about incidents in deployments.
+- Reduces noise and automates incident response.
+- Removes manual and repetitive work.
+- Ensures efficient resolution of issues.
+
+5. Atlassian Intelligence:
+- AI-powered virtual assistant for customer queries.
+- Generates ChatGPT-like responses.
+- Assists in summarizing meeting action items.
+- Supports JIRA software for efficient support ticket management.
+- Helps generate project summaries and track status.
+
+6. Dynatrace’s Davis:
+- AI-powered engine for managing IT environments.
+- Analyzes monitoring data for actionable insights.
+- Conducts root cause analysis and detects anomalies.
+- Provides in-depth analysis and speedy remediation.
+- Optimizes complex IT environments.
+
+7. Datadog APM:
+- AI-powered application performance monitoring.
+- Offers complete visibility of applications.
+- Helps troubleshoot performance issues.
+- Collects logs, metrics, and user data.
+- Enables proactive detection and root cause analysis.
+
+8. Snyk:
+- Platform for improving application and container security.
+- Uses AI for automated security testing.
+- Incorporates machine learning for vulnerability management.
+- Analyzes social and community channels for security issues.
+- Provides accurate vulnerability data and quick fixes.
+
+9. Harness:
+- CI/CD platform with AI-powered automation.
+- Streamlines workflows and optimizes deployments.
+- Automates testing based on historical data.
+- Analyzes code quality with AI insights.
+- Continuously monitors for anomalies and performance issues.
