@@ -1,0 +1,53 @@
+Intro
+--------
+Project and Role responsilibites
+
+
+Github
+-------
+Github commands
+
+
+Jenkins
+---------
+Pipeline
+
+SonarQube is Static code analysis
+-----------
+Why static code analysis
+1. Find errors earlier in the development
+2.Detects over complexity in the code
+3. find security error [Password in code , over exposure of application to the internet]
+4. Enforce best coding practices
+5. can integrate with jenkins
+6. can create project sprcific rules
+
+
+terraform
+-----------
+tfstatefile 
+module
+command
+
+
+python
+--------
+
+
+Docker
+---------
+docker file
+
+Kubernetes
+
+nginx
+
+AWS
+
+
+Security
+--------
+
+IAM
+GaurdDuty
+
