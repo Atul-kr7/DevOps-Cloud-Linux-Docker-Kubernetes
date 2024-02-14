@@ -22,6 +22,14 @@ Why static code analysis
 5. can integrate with jenkins
 6. can create project sprcific rules
 
+code qulaity check:
+
+Potential bugs
+code duplication
+Lack of test coverage
+Execess complexity
+
+
 
 terraform
 -----------
